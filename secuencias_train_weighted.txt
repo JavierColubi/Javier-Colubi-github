@@ -3559,7 +3559,7 @@ Homo sapiens (Human) CRH-related gene family Urocortin-3, FTLSLDVPTNIMNLLFNIAKAK
 Homo sapiens (Human) Insulin family Insulin B chain , FVNQHLCGSHLVEALYLVCGERGFFYTPKT,30,2
 Homo sapiens (Human) Motilin family  Motilin, FVPIFTYGELQRMQEKERNKGQ,22,2
 Homo sapiens (Human) Motilin family  Promotilin, FVPIFTYGELQRMQEKERNKGQKKSLSVWQRSGEEGPVDPAEPIREEENEMIKLTAPLEIGMRMNSRQLEKYPATLEGLLSEMLPQHAAK,90,2
-Homo sapiens (Human) Kinin and tensin gene family Neuropeptide gamma, 2nd part, GHGQISHKRHKTDSFVGLM,19,2
+Homo sapiens (Human) Kinin and tensin gene family Neuropeptide gamma, GHGQISHKRHKTDSFVGLM,19,2
 Homo sapiens (Human) Insulin family Insulin A chain, GIVEQCCTSICSLYQLENYCN,21,2
 Homo sapiens (Human) Natriuretic factor gene family CNP-22, GLSKGCFGLKLDRIGSMSGLGC,22,2
 Homo sapiens (Human) Bombesin-like peptide gene family Neuromedin-C, GNHWAVGHLM,10,2
